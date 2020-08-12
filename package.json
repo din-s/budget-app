@@ -1,0 +1,27 @@
+{
+  "name": "budget-app",
+  "version": "1.0.0",
+  "description": "Use to maintain budget",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/din-s/budget-app.git"
+  },
+  "keywords": [
+    "budget"
+  ],
+  "author": "din-s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/din-s/budget-app/issues"
+  },
+  "homepage": "https://github.com/din-s/budget-app#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "uuid": "^8.3.0"
+  },
+  "type":"module"
+}
